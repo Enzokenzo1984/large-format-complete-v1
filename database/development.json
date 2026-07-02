@@ -1,0 +1,155 @@
+[
+  {
+    "film": "Kodak Portra 160",
+    "process": "C-41",
+    "developer": "Standard C-41",
+    "temperature_C": 37.8,
+    "method": "JOBO Rotary",
+    "developerTime": "3:15",
+    "bleach": "6:30",
+    "fix": "6:30",
+    "stabilizer": "1:00"
+  },
+  {
+    "film": "Kodak Portra 400",
+    "process": "C-41",
+    "developer": "Standard C-41",
+    "temperature_C": 37.8,
+    "method": "JOBO Rotary",
+    "developerTime": "3:15"
+  },
+  {
+    "film": "Kodak Ektar 100",
+    "process": "C-41",
+    "developer": "Standard C-41",
+    "temperature_C": 37.8,
+    "method": "JOBO Rotary",
+    "developerTime": "3:15"
+  },
+  {
+    "film": "Kodak E100",
+    "process": "E-6",
+    "developer": "Standard E-6",
+    "temperature_C": 38,
+    "method": "JOBO Rotary",
+    "firstDeveloper": "6:30",
+    "colorDeveloper": "6:00"
+  },
+  {
+    "film": "Fujifilm Provia 100F",
+    "process": "E-6",
+    "developer": "Standard E-6",
+    "temperature_C": 38,
+    "method": "JOBO Rotary",
+    "firstDeveloper": "6:30",
+    "colorDeveloper": "6:00"
+  },
+  {
+    "film": "Ilford HP5 Plus",
+    "developer": "Ilford DD-X",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "JOBO Rotary",
+    "ei": 400,
+    "time": "8:00"
+  },
+  {
+    "film": "Ilford HP5 Plus",
+    "developer": "Ilford DD-X",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "Tank",
+    "ei": 1600,
+    "time": "13:30"
+  },
+  {
+    "film": "Ilford FP4 Plus",
+    "developer": "Ilford DD-X",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "JOBO Rotary",
+    "ei": 125,
+    "time": "7:00"
+  },
+  {
+    "film": "Kodak Tri-X 400",
+    "developer": "Kodak D-76",
+    "dilution": "Stock",
+    "temperature_C": 20,
+    "method": "Tank",
+    "ei": 400,
+    "time": "6:45"
+  },
+  {
+    "film": "Kodak Tri-X 400",
+    "developer": "Kodak HC-110",
+    "dilution": "1+31",
+    "temperature_C": 20,
+    "method": "Tank",
+    "ei": 400,
+    "time": "6:00"
+  },
+  {
+    "film": "Kodak T-MAX 100",
+    "developer": "Kodak T-MAX Developer",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "JOBO Rotary",
+    "ei": 100,
+    "time": "5:30"
+  },
+  {
+    "film": "Kodak T-MAX 400",
+    "developer": "Kodak T-MAX Developer",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "JOBO Rotary",
+    "ei": 400,
+    "time": "6:00"
+  },
+  {
+    "film": "Fomapan 100 Classic",
+    "developer": "Ilford DD-X",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "JOBO Rotary",
+    "ei": 100,
+    "time": "8:30"
+  },
+  {
+    "film": "Fomapan 200 Creative",
+    "developer": "Ilford DD-X",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "JOBO Rotary",
+    "ei": 200,
+    "time": "9:30"
+  },
+  {
+    "film": "Fomapan 400 Action",
+    "developer": "Ilford DD-X",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "JOBO Rotary",
+    "ei": 400,
+    "time": "10:00"
+  },
+  {
+    "film": "Kentmere Pan 100",
+    "developer": "Ilford DD-X",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "JOBO Rotary",
+    "ei": 100,
+    "time": "8:00"
+  },
+  {
+    "film": "Kentmere Pan 400",
+    "developer": "Ilford DD-X",
+    "dilution": "1+4",
+    "temperature_C": 20,
+    "method": "JOBO Rotary",
+    "ei": 400,
+    "time": "8:30"
+  }
+]

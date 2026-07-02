@@ -1,0 +1,139 @@
+[
+  {
+    "id": "jobo_cpe3",
+    "name": "JOBO CPE-3",
+    "model": "CPE-3",
+    "type": "Processor",
+    "supports": [
+      "1500",
+      "2500"
+    ],
+    "expertDrumSupport": false,
+    "bestFor": [
+      "35mm",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "jobo_cpp3",
+    "name": "JOBO CPP-3",
+    "model": "CPP-3",
+    "type": "Processor",
+    "supports": [
+      "1500",
+      "2500",
+      "2800",
+      "3000 Expert"
+    ],
+    "expertDrumSupport": true,
+    "bestFor": [
+      "35mm",
+      "120",
+      "4x5",
+      "8x10"
+    ]
+  },
+  {
+    "id": "jobo_cpp_classic",
+    "name": "JOBO CPP Classic",
+    "model": "CPP Classic",
+    "type": "Processor",
+    "supports": [
+      "1500",
+      "2500",
+      "2800",
+      "3000 Expert"
+    ],
+    "expertDrumSupport": true,
+    "bestFor": [
+      "35mm",
+      "120",
+      "4x5",
+      "8x10"
+    ]
+  },
+  {
+    "id": "jobo_1520",
+    "name": "JOBO 1520 Tank",
+    "model": "1520",
+    "type": "Tank",
+    "capacity_ml": 485,
+    "supports": [
+      "2x35mm",
+      "2x120"
+    ]
+  },
+  {
+    "id": "jobo_1540",
+    "name": "JOBO 1540 Tank",
+    "model": "1540",
+    "type": "Tank",
+    "capacity_ml": 725,
+    "supports": [
+      "4x35mm",
+      "4x120"
+    ]
+  },
+  {
+    "id": "jobo_2520",
+    "name": "JOBO 2520 Tank",
+    "model": "2520",
+    "type": "Tank",
+    "capacity_ml": 640,
+    "supports": [
+      "2x120",
+      "4x5 with 2509N"
+    ]
+  },
+  {
+    "id": "jobo_2550",
+    "name": "JOBO 2550 Tank",
+    "model": "2550",
+    "type": "Tank",
+    "capacity_ml": 970,
+    "supports": [
+      "6x120",
+      "12x4x5 with 2509N"
+    ]
+  },
+  {
+    "id": "jobo_2509n",
+    "name": "JOBO 2509N Reel",
+    "model": "2509N",
+    "type": "Sheet Film Reel",
+    "supports": [
+      "6 sheets 4x5"
+    ]
+  },
+  {
+    "id": "jobo_3005",
+    "name": "JOBO 3005 Expert Drum",
+    "model": "3005",
+    "type": "Expert Drum",
+    "supports": [
+      "5 sheets 8x10"
+    ],
+    "minimumChemistry_ml": 560
+  },
+  {
+    "id": "jobo_3010",
+    "name": "JOBO 3010 Expert Drum",
+    "model": "3010",
+    "type": "Expert Drum",
+    "supports": [
+      "10 sheets 4x5"
+    ],
+    "minimumChemistry_ml": 270
+  },
+  {
+    "id": "jobo_3063",
+    "name": "JOBO 3063 Expert Drum",
+    "model": "3063",
+    "type": "Expert Drum",
+    "supports": [
+      "6 sheets 8x10"
+    ],
+    "minimumChemistry_ml": 1000
+  }
+]

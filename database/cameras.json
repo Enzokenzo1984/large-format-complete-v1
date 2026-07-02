@@ -1,0 +1,130 @@
+[
+  {
+    "id": "chamonix_45f2",
+    "name": "Chamonix 45F-2",
+    "manufacturer": "Chamonix",
+    "format": "4x5",
+    "type": "Field Camera",
+    "weight_g": 1540,
+    "lensBoard": "Linhof Technika 96x99",
+    "maxExtension_mm": 395,
+    "frontRise_mm": 52
+  },
+  {
+    "id": "chamonix_45n2",
+    "name": "Chamonix 45N-2",
+    "manufacturer": "Chamonix",
+    "format": "4x5",
+    "type": "Field Camera",
+    "weight_g": 1620,
+    "lensBoard": "Linhof Technika",
+    "maxExtension_mm": 395
+  },
+  {
+    "id": "chamonix_810v",
+    "name": "Chamonix 810V",
+    "manufacturer": "Chamonix",
+    "format": "8x10",
+    "type": "Field Camera",
+    "weight_g": 5900
+  },
+  {
+    "id": "intrepid_4x5_mk5",
+    "name": "Intrepid 4x5 MK5",
+    "manufacturer": "Intrepid",
+    "format": "4x5",
+    "type": "Field Camera",
+    "weight_g": 1200,
+    "lensBoard": "Linhof Technika"
+  },
+  {
+    "id": "intrepid_8x10_mkii",
+    "name": "Intrepid 8x10 MKII",
+    "manufacturer": "Intrepid",
+    "format": "8x10",
+    "type": "Field Camera",
+    "weight_g": 3900
+  },
+  {
+    "id": "linhof_master_technika",
+    "name": "Linhof Master Technika Classic",
+    "manufacturer": "Linhof",
+    "format": "4x5",
+    "type": "Technical Field Camera",
+    "weight_g": 2900,
+    "lensBoard": "Linhof Technika"
+  },
+  {
+    "id": "linhof_technikardan_45s",
+    "name": "Linhof Technikardan 45S",
+    "manufacturer": "Linhof",
+    "format": "4x5",
+    "type": "Hybrid Monorail",
+    "weight_g": 3400
+  },
+  {
+    "id": "arca_f_line_4x5",
+    "name": "Arca-Swiss F-Line 4x5",
+    "manufacturer": "Arca-Swiss",
+    "format": "4x5",
+    "type": "Monorail",
+    "weight_g": 3300
+  },
+  {
+    "id": "sinar_f2_4x5",
+    "name": "Sinar F2 4x5",
+    "manufacturer": "Sinar",
+    "format": "4x5",
+    "type": "Monorail",
+    "weight_g": 3400
+  },
+  {
+    "id": "sinar_p2_4x5",
+    "name": "Sinar P2 4x5",
+    "manufacturer": "Sinar",
+    "format": "4x5",
+    "type": "Professional Monorail",
+    "weight_g": 5700
+  },
+  {
+    "id": "toyo_45a",
+    "name": "Toyo 45A",
+    "manufacturer": "Toyo",
+    "format": "4x5",
+    "type": "Field Camera",
+    "weight_g": 2890
+  },
+  {
+    "id": "toyo_45cf",
+    "name": "Toyo 45CF",
+    "manufacturer": "Toyo",
+    "format": "4x5",
+    "type": "Carbon Field Camera",
+    "weight_g": 1780
+  },
+  {
+    "id": "shenhao_hzx45_iia",
+    "name": "Shen Hao HZX45-IIA",
+    "manufacturer": "Shen Hao",
+    "format": "4x5",
+    "type": "Field Camera",
+    "weight_g": 2700
+  },
+  {
+    "id": "wista_45sp",
+    "name": "Wista 45SP",
+    "manufacturer": "Wista",
+    "format": "4x5",
+    "type": "Technical Field Camera",
+    "weight_g": 2850
+  },
+  {
+    "id": "canham_dlc45",
+    "name": "Canham DLC45",
+    "manufacturer": "Canham",
+    "format": "4x5",
+    "type": "Field Camera",
+    "weight_g": 1800,
+    "maxExtension_mm": 550
+  }
+]

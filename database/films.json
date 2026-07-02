@@ -1,0 +1,429 @@
+[
+  {
+    "id": "kodak_portra160",
+    "name": "Kodak Portra 160",
+    "brand": "Kodak",
+    "iso": 160,
+    "type": "Color Negative",
+    "process": "C-41",
+    "formats": [
+      "120",
+      "4x5",
+      "8x10"
+    ],
+    "note": "Portrait, natural color, high latitude"
+  },
+  {
+    "id": "kodak_portra400",
+    "name": "Kodak Portra 400",
+    "brand": "Kodak",
+    "iso": 400,
+    "type": "Color Negative",
+    "process": "C-41",
+    "formats": [
+      "135",
+      "120",
+      "4x5",
+      "8x10"
+    ],
+    "note": "Portrait, wedding, general color negative"
+  },
+  {
+    "id": "kodak_portra800",
+    "name": "Kodak Portra 800",
+    "brand": "Kodak",
+    "iso": 800,
+    "type": "Color Negative",
+    "process": "C-41",
+    "formats": [
+      "135",
+      "120"
+    ],
+    "note": "Low light color negative"
+  },
+  {
+    "id": "kodak_ektar100",
+    "name": "Kodak Ektar 100",
+    "brand": "Kodak",
+    "iso": 100,
+    "type": "Color Negative",
+    "process": "C-41",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Fine grain, high saturation"
+  },
+  {
+    "id": "kodak_gold200",
+    "name": "Kodak Gold 200",
+    "brand": "Kodak",
+    "iso": 200,
+    "type": "Color Negative",
+    "process": "C-41",
+    "formats": [
+      "135",
+      "120"
+    ],
+    "note": "Warm consumer color film"
+  },
+  {
+    "id": "kodak_colorplus200",
+    "name": "Kodak ColorPlus 200",
+    "brand": "Kodak",
+    "iso": 200,
+    "type": "Color Negative",
+    "process": "C-41",
+    "formats": [
+      "135"
+    ],
+    "note": "Budget color negative"
+  },
+  {
+    "id": "kodak_ultramax400",
+    "name": "Kodak UltraMax 400",
+    "brand": "Kodak",
+    "iso": 400,
+    "type": "Color Negative",
+    "process": "C-41",
+    "formats": [
+      "135"
+    ],
+    "note": "Consumer 400 speed color negative"
+  },
+  {
+    "id": "kodak_proimage100",
+    "name": "Kodak Pro Image 100",
+    "brand": "Kodak",
+    "iso": 100,
+    "type": "Color Negative",
+    "process": "C-41",
+    "formats": [
+      "135"
+    ],
+    "note": "Portrait/travel color negative"
+  },
+  {
+    "id": "kodak_e100",
+    "name": "Kodak E100",
+    "brand": "Kodak",
+    "iso": 100,
+    "type": "Color Reversal",
+    "process": "E-6",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Slide film, highlight priority"
+  },
+  {
+    "id": "kodak_trix400",
+    "name": "Kodak Tri-X 400",
+    "brand": "Kodak",
+    "iso": 400,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5",
+      "8x10"
+    ],
+    "note": "Classic B&W, pushable"
+  },
+  {
+    "id": "kodak_tmax100",
+    "name": "Kodak T-MAX 100",
+    "brand": "Kodak",
+    "iso": 100,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5",
+      "8x10"
+    ],
+    "note": "Very fine grain B&W"
+  },
+  {
+    "id": "kodak_tmax400",
+    "name": "Kodak T-MAX 400",
+    "brand": "Kodak",
+    "iso": 400,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Modern grain, high sharpness"
+  },
+  {
+    "id": "kodak_tmaxp3200",
+    "name": "Kodak T-MAX P3200",
+    "brand": "Kodak",
+    "iso": 3200,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135"
+    ],
+    "note": "Low light B&W"
+  },
+  {
+    "id": "fuji_provia100f",
+    "name": "Fujifilm Provia 100F",
+    "brand": "Fujifilm",
+    "iso": 100,
+    "type": "Color Reversal",
+    "process": "E-6",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Neutral slide film"
+  },
+  {
+    "id": "fuji_velvia50",
+    "name": "Fujifilm Velvia 50",
+    "brand": "Fujifilm",
+    "iso": 50,
+    "type": "Color Reversal",
+    "process": "E-6",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "High saturation landscape slide"
+  },
+  {
+    "id": "fuji_acrosii",
+    "name": "Fujifilm Neopan Acros II",
+    "brand": "Fujifilm",
+    "iso": 100,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120"
+    ],
+    "note": "Fine grain, strong long exposure behavior"
+  },
+  {
+    "id": "ilford_hp5",
+    "name": "Ilford HP5 Plus",
+    "brand": "Ilford",
+    "iso": 400,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5",
+      "8x10"
+    ],
+    "note": "Flexible, pushable"
+  },
+  {
+    "id": "ilford_fp4",
+    "name": "Ilford FP4 Plus",
+    "brand": "Ilford",
+    "iso": 125,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5",
+      "8x10"
+    ],
+    "note": "Fine grain classic B&W"
+  },
+  {
+    "id": "ilford_delta100",
+    "name": "Ilford Delta 100",
+    "brand": "Ilford",
+    "iso": 100,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Modern fine grain"
+  },
+  {
+    "id": "ilford_delta400",
+    "name": "Ilford Delta 400",
+    "brand": "Ilford",
+    "iso": 400,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Modern 400 speed B&W"
+  },
+  {
+    "id": "ilford_delta3200",
+    "name": "Ilford Delta 3200",
+    "brand": "Ilford",
+    "iso": 3200,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120"
+    ],
+    "note": "Low light B&W"
+  },
+  {
+    "id": "ilford_ortho_plus",
+    "name": "Ilford Ortho Plus",
+    "brand": "Ilford",
+    "iso": 80,
+    "type": "Orthochromatic B&W",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Red-insensitive ortho film"
+  },
+  {
+    "id": "foma100",
+    "name": "Fomapan 100 Classic",
+    "brand": "Foma",
+    "iso": 100,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5",
+      "8x10"
+    ],
+    "note": "Affordable sheet film"
+  },
+  {
+    "id": "foma200",
+    "name": "Fomapan 200 Creative",
+    "brand": "Foma",
+    "iso": 200,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Medium speed B&W"
+  },
+  {
+    "id": "foma400",
+    "name": "Fomapan 400 Action",
+    "brand": "Foma",
+    "iso": 400,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Higher speed Foma B&W"
+  },
+  {
+    "id": "adox_chs100ii",
+    "name": "ADOX CHS 100 II",
+    "brand": "ADOX",
+    "iso": 100,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120",
+      "4x5",
+      "8x10"
+    ],
+    "note": "Classic rendering"
+  },
+  {
+    "id": "kentmere100",
+    "name": "Kentmere Pan 100",
+    "brand": "Kentmere",
+    "iso": 100,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120"
+    ],
+    "note": "Affordable B&W"
+  },
+  {
+    "id": "kentmere400",
+    "name": "Kentmere Pan 400",
+    "brand": "Kentmere",
+    "iso": 400,
+    "type": "Black & White",
+    "process": "B&W",
+    "formats": [
+      "135",
+      "120"
+    ],
+    "note": "Affordable 400 B&W"
+  },
+  {
+    "id": "cinestill_50d",
+    "name": "CineStill 50D",
+    "brand": "CineStill",
+    "iso": 50,
+    "type": "Color Negative Cinema",
+    "process": "C-41",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Daylight cinema look"
+  },
+  {
+    "id": "cinestill_400d",
+    "name": "CineStill 400D",
+    "brand": "CineStill",
+    "iso": 400,
+    "type": "Color Negative Cinema",
+    "process": "C-41",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Daylight 400 speed cinema look"
+  },
+  {
+    "id": "cinestill_800t",
+    "name": "CineStill 800T",
+    "brand": "CineStill",
+    "iso": 800,
+    "type": "Color Negative Cinema",
+    "process": "C-41",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ],
+    "note": "Tungsten low light cinema look"
+  }
+]
